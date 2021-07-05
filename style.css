@@ -1,3 +1,35 @@
 body{
     font-family: 'Poppins', sans-serif;
+    margin:0;
+}
+h1{
+    font-size: 40px;
+}
+section{
+    background-image: url(images/top-banner.png);
+    background-repeat: no-repeat;
+    
+}
+.text-color{
+    color: orange;
+}
+.top{
+    display: flex;
+}
+.img-width{
+    width: 80%;
+}
+.half-width{
+    width: 80%;
+    margin:0;
+    padding-left: 40px;
+}
+.link-button{
+    background-image: linear-gradient(lightsalmon tomato);
+    text-decoration: none;
+    color:white;
+    padding 10px 40px;
+    font-weight: 700;
+    border-radius: 5px;
+    
 }
